@@ -1,6 +1,7 @@
 # discordpricebot
 
 This will only work once your token is listed on CMC, and currently only supports a single LP pair
+
 You will need to install web3 and Discord for python if you haven't already
 
 Start by getting a free CMC API key - https://coinmarketcap.com/api/pricing/

@@ -6,6 +6,7 @@ You will need to install web3 and Discord for python if you haven't already
 Start by getting a free CMC API key - https://coinmarketcap.com/api/pricing/
 
 Then configure your Discord bot and generate a token for it - https://www.writebots.com/discord-bot-token/
+
 Make sure you give the bot the following permissons
  - Send Messages
  - Embed Links
